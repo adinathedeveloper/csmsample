@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b6db7060-f093-4b18-b592-51c644b5f1fe/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/adinapervaiz",
+    "appService.deploySubpath": "node_modules"
+}
